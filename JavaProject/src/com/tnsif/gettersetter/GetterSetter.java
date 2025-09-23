@@ -1,4 +1,4 @@
-package tnsif.com;
+package com.tnsif.gettersetter;
 
 public class GetterSetter{
 

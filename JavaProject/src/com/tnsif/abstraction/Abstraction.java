@@ -1,4 +1,4 @@
-package tnsif.com;
+package com.tnsif.abstraction;
 abstract class Shape {
     abstract void area();
 }

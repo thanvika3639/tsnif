@@ -1,4 +1,4 @@
-package tnsif.com;
+package com.tnsif.interfaces;
 
 interface A {
     void methodA();
