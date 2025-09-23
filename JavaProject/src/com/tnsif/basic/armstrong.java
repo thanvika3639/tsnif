@@ -1,3 +1,5 @@
+package com.tnsif.basic;
+
 import java.util.Scanner;  
 
 public class armstrong {
