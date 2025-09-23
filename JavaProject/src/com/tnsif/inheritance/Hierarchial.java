@@ -5,7 +5,7 @@ class Car3 {
  }
 }
 
-class SportsCar extends Car3 {
+class SportsCar1 extends Car3 {
  void turbo() {
      System.out.println("SportsCar has turbo speed.");
  }
@@ -26,7 +26,7 @@ class LuxuryCar extends Car3 {
 public class Hierarchial {
  public static void main(String[] args) {
      
-     SportsCar sc = new SportsCar();
+     SportsCar1 sc = new SportsCar1();
      sc.start();   
      sc.turbo();  
 
