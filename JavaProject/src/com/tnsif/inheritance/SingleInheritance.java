@@ -1,4 +1,4 @@
-package tnsif.com;
+package com.tnsif.inheritance;
 
 class Animal2 {
     void eat() {

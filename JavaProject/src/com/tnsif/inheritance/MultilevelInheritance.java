@@ -1,4 +1,4 @@
-package tnsif.com;
+package com.tnsif.inheritance;
 
 class Vehicle {
     void start() {

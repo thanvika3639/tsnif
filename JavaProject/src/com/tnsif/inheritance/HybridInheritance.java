@@ -1,4 +1,4 @@
-package tnsif.com;
+package com.tnsif.inheritance;
 class Animal {
     String name;
     Animal(String name) {

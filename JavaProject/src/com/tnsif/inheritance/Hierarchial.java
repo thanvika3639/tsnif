@@ -1,4 +1,5 @@
- class Car3 {
+package com.tnsif.inheritance;
+class Car3 {
  void start() {
      System.out.println("Car starts with a key.");
  }
